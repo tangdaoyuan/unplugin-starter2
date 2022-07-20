@@ -1,7 +1,7 @@
 {
   "name": "unplugin-starter2",
   "version": "0.0.2",
-  "packageManager": "pnpm@7.5.0",
+  "packageManager": "pnpm@7.5.2",
   "description": "unplugin-starter2",
   "keywords": [
     "unplugin",
@@ -75,14 +75,14 @@
     "unplugin": "^0.7.0"
   },
   "devDependencies": {
-    "@suger-tdy/eslint-config": "1.1.7",
+    "@suger-tdy/eslint-config": "1.1.8",
     "bumpp": "8.2.1",
     "esbuild": "0.14.49",
-    "eslint": "8.19.0",
+    "eslint": "8.20.0",
     "typescript": "4.7.4",
     "unbuild": "0.7.4",
     "vite": "2.9.14",
-    "vitest": "0.18.0"
+    "vitest": "0.18.1"
   },
   "publishConfig": {
     "access": "public"
