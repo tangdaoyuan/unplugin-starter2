@@ -1,7 +1,7 @@
 {
   "name": "unplugin-starter2",
   "version": "0.0.2",
-  "packageManager": "pnpm@7.5.2",
+  "packageManager": "pnpm@7.6.0",
   "description": "unplugin-starter2",
   "keywords": [
     "unplugin",
@@ -80,9 +80,9 @@
     "esbuild": "0.14.49",
     "eslint": "8.20.0",
     "typescript": "4.7.4",
-    "unbuild": "0.7.4",
+    "unbuild": "0.7.6",
     "vite": "3.0.2",
-    "vitest": "0.18.1"
+    "vitest": "0.19.0"
   },
   "publishConfig": {
     "access": "public"
